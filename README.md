@@ -28,7 +28,7 @@ Configuration personnalisée de Fish, conçue pour être portable entre différe
 Cloner le dépôt :
 
 ```fish
-git clone URL_DU_DEPOT ~/fish-config
+git clone git@github.com:Kydzy/fish_config.git ~/fish-config
 ```
 
 Entrer dans le dossier :
